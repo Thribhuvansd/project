@@ -16,7 +16,7 @@ export default function Home() {
     <div className='Home'>
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-          <img src={logo} alt="Shooping" width="60px" height="" />
+          <img src={logo} alt="Shopping" width="60px" height="" />
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
